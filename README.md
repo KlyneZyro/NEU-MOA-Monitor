@@ -207,13 +207,4 @@ New Era University
 
 ## 📄 License
 This project was developed as an academic requirement.  
-© 2025 New Era University — All rights reserved.
-
----
-
-## 📞 Support & Contributing
-For issues, suggestions, or contributions, please see:
-- `QUICKSTART.md` — Quick setup checklist
-- `SETUP.md` — Detailed step-by-step guide
-- `CONTRIBUTING.md` — How to contribute
-- `GITHUB_REFERENCE.md` — Git best practices
+© 2026 New Era University — All rights reserved.
